@@ -1,0 +1,126 @@
+{
+  "cakes": [
+    {
+      "id": "1",
+      "title": "Lemon cheesecake",
+      "previewDescription": "A cheesecake made of lemon.",
+      "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/lemoncheese_cake.jpg",
+      "image2": "./src/assets/images/cake-3060458_640.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Victoria sponge",
+      "previewDescription": "Sponge with jam.",
+      "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/victoria_sponge.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Carrot cake",
+      "previewDescription": "Bugs bunnys favourite.",
+      "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/carrot_cake.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Banana cake",
+      "previewDescription": "Banana cake is a cake prepared using banana.",
+      "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/banana_cake.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Birthday cake",
+      "previewDescription": "A yearly treat.",
+      "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/birthday_cake.JPG"
+    },
+    {
+      "id": "6",
+      "title": "Avocado cake",
+      "previewDescription": "Avocado cake is a cake prepared using avocado.",
+      "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/avocado_cake.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Chocolate cake",
+      "previewDescription": "Chocolate cake is a cake flavored with melted chocolate, cocoa powder, or sometimes both.",
+      "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/chocolate_cake.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Clementine cake",
+      "previewDescription": "Clementine cake is a cake prepared with clementine fruit.",
+      "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/clementine_cake.png"
+    },
+    {
+      "id": "9",
+      "title": "Fudge cake",
+      "previewDescription": "A fudge cake is a chocolate cake containing fudge.",
+      "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/fudge_cake.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Spice cake",
+      "previewDescription": "Spice cake is traditionally flavored with a mixture of spices.",
+      "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/spice_cake.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Plum cake",
+      "previewDescription": "Plum cake refers to a wide range of cakes made with either dried fruit or with fresh fruit.",
+      "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/plum_cake.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Apple cake",
+      "previewDescription": "Apple cake is a popular dessert produced with the main ingredient of apples.",
+      "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/apple_cake.JPG"
+    },
+    {
+      "id": "13",
+      "title": "Bulla cake",
+      "previewDescription": "Bulla cake is a rich Jamaican cake made with molasses and spiced with ginger and nutmeg.",
+      "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/bulla_cake.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Jaffa cake",
+      "previewDescription": "Jaffa Cakes are biscuit-sized cakes.",
+      "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/jaffa_cake.png"
+    },
+    {
+      "id": "15",
+      "title": "Strawberry cake",
+      "previewDescription": "Strawberry cake is a crumbly bread made by strawberry.",
+      "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/strawberry_cake.jpg"
+    }
+  ],
+  "staffContacts": [
+    {
+      "id": "12345",
+      "name": "Filippo Engidashet",
+      "phones": {
+        "home": "+0123456789",
+        "mobile": "+999999999"
+      },
+      "role": "manger",
+      "dateOfBirth": "1965-01-05T00:00:00.000Z",
+      "email": [
+        "fe@example.com",
+        "fe@example.org",
+        "filippo.eng@gmail.com"
+      ]
+    },
+    {
+      "id": "11111",
+      "name": "Abebe Kebede",
+      "phones": {
+        "home": null,
+        "mobile": "+9876543210"
+      },
+      "role": "baker",
+      "dateOfBirth": "1980-01-02T00:00:00.000Z",
+      "email": [
+        "jd@example.com",
+        "jd@example.org"
+      ]
+    }
+  ]
+}
